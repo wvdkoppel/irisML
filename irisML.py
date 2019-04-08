@@ -45,3 +45,5 @@ print("Prediction: " + prediction_text)
 answer = "True answer: " + ["blue", "red"][rand_data[2]]
 print(answer)
 
+#Next steps: Add learning to the model to increase prediction accuracy.
+
